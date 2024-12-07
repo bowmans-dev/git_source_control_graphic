@@ -1,5 +1,7 @@
 # Dynamic Portfolio Git Source Control Graphic
 
+![screenshot](./screenshot.png)
+
 A web-based visual representation of a Git repository's commit history. This project dynamically displays commits, branches, and merges in a visually appealing timeline. It is especially useful for tracking individual feature branches that are deleted after merging into the main branch. Currently, the project is open to contributions for handling more complex scenarios involving multiple concurrent branches.
 
 DISCLAIMER - this project is independent and not affiliated with or endorsed by, or sponsored by the Git project or any related organization the Git project.
